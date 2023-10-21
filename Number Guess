@@ -1,4 +1,4 @@
-# write a program to guess the number between 1 to 30.
+# write a program to guess the number between 1 and 30.
 
 import random
 
